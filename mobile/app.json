@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Meta Lead Realtime PoC",
+    "slug": "meta-lead-realtime-poc",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#ffffff"
+    },
+    "android": {
+      "package": "com.ayush.metaleadrealtimepoc"
+    }
+  }
+}

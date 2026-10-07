@@ -1,0 +1,12 @@
+{
+  "name": "meta-lead-realtime-poc",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Meta Lead Ads to Node.js to MySQL to real-time React Native proof of concept",
+  "scripts": {
+    "install:all": "npm install --prefix backend && npm install --prefix mobile",
+    "backend": "npm --prefix backend run dev",
+    "mobile": "npm --prefix mobile start",
+    "test": "npm --prefix backend test"
+  }
+}
